@@ -10,5 +10,5 @@ The Customer will be able to enter the ID of the product that they wish to purch
 
 ## Screenshots
 
--[] https://imgur.com/UCCCHHN
--[] https://imgur.com/JQAnUc1
+- https://imgur.com/UCCCHHN
+- https://imgur.com/JQAnUc1
